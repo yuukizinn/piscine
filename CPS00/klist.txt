@@ -1,0 +1,5 @@
+Credentials cache: API:A9683E95-6AA5-479B-AACD-3C3EA954180E
+        Principal: yosawa@42TOKYO.JP
+
+  Issued                Expires               Principal
+Aug 30 18:34:05 2021  Aug 31 04:34:05 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
